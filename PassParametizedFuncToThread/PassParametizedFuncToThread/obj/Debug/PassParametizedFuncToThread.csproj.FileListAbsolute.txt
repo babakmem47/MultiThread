@@ -1,0 +1,6 @@
+E:\Projects\Thread\PassParametizedFuncToThread\PassParametizedFuncToThread\bin\Debug\PassParametizedFuncToThread.exe.config
+E:\Projects\Thread\PassParametizedFuncToThread\PassParametizedFuncToThread\bin\Debug\PassParametizedFuncToThread.exe
+E:\Projects\Thread\PassParametizedFuncToThread\PassParametizedFuncToThread\bin\Debug\PassParametizedFuncToThread.pdb
+E:\Projects\Thread\PassParametizedFuncToThread\PassParametizedFuncToThread\obj\Debug\PassParametizedFuncToThread.csprojResolveAssemblyReference.cache
+E:\Projects\Thread\PassParametizedFuncToThread\PassParametizedFuncToThread\obj\Debug\PassParametizedFuncToThread.exe
+E:\Projects\Thread\PassParametizedFuncToThread\PassParametizedFuncToThread\obj\Debug\PassParametizedFuncToThread.pdb

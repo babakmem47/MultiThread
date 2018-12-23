@@ -1,0 +1,6 @@
+E:\Projects\Thread\Sleep\Sleep\bin\Debug\Sleep.exe.config
+E:\Projects\Thread\Sleep\Sleep\bin\Debug\Sleep.exe
+E:\Projects\Thread\Sleep\Sleep\bin\Debug\Sleep.pdb
+E:\Projects\Thread\Sleep\Sleep\obj\Debug\Sleep.csprojResolveAssemblyReference.cache
+E:\Projects\Thread\Sleep\Sleep\obj\Debug\Sleep.exe
+E:\Projects\Thread\Sleep\Sleep\obj\Debug\Sleep.pdb

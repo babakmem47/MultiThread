@@ -1,0 +1,6 @@
+E:\Projects\Thread\UseThread\UseThread\bin\Debug\UseThread.exe.config
+E:\Projects\Thread\UseThread\UseThread\bin\Debug\UseThread.exe
+E:\Projects\Thread\UseThread\UseThread\bin\Debug\UseThread.pdb
+E:\Projects\Thread\UseThread\UseThread\obj\Debug\UseThread.csprojResolveAssemblyReference.cache
+E:\Projects\Thread\UseThread\UseThread\obj\Debug\UseThread.exe
+E:\Projects\Thread\UseThread\UseThread\obj\Debug\UseThread.pdb

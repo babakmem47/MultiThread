@@ -1,0 +1,6 @@
+E:\Projects\Thread\LockThread\LockThread\bin\Debug\LockThread.exe.config
+E:\Projects\Thread\LockThread\LockThread\bin\Debug\LockThread.exe
+E:\Projects\Thread\LockThread\LockThread\bin\Debug\LockThread.pdb
+E:\Projects\Thread\LockThread\LockThread\obj\Debug\LockThread.csprojResolveAssemblyReference.cache
+E:\Projects\Thread\LockThread\LockThread\obj\Debug\LockThread.exe
+E:\Projects\Thread\LockThread\LockThread\obj\Debug\LockThread.pdb

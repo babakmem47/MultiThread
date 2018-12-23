@@ -1,0 +1,6 @@
+E:\Projects\Thread\PassDataToThread\PassDataToThread\bin\Debug\PassDataToThread.exe.config
+E:\Projects\Thread\PassDataToThread\PassDataToThread\bin\Debug\PassDataToThread.exe
+E:\Projects\Thread\PassDataToThread\PassDataToThread\bin\Debug\PassDataToThread.pdb
+E:\Projects\Thread\PassDataToThread\PassDataToThread\obj\Debug\PassDataToThread.csprojResolveAssemblyReference.cache
+E:\Projects\Thread\PassDataToThread\PassDataToThread\obj\Debug\PassDataToThread.exe
+E:\Projects\Thread\PassDataToThread\PassDataToThread\obj\Debug\PassDataToThread.pdb
